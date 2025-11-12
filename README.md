@@ -1,5 +1,5 @@
 # HydraSDR-graphs
-Here are my graph files using the [HydraSDR RFOne](https://hydrasdr.com/) receiver. They are based on the [demonstration FM receiver in this tutorial](https://wiki.gnuradio.org/index.php?title=RTL-SDR_FM_Receiver). Hack them, enjoy them, share them.
+Here are my [GNURadio](https://www.gnuradio.org/) companion graph files for the [HydraSDR RFOne](https://hydrasdr.com/) receiver. They are based on the [demonstration FM receiver in this tutorial](https://wiki.gnuradio.org/index.php?title=RTL-SDR_FM_Receiver). Hack them, enjoy them, share them.
 
 You'll see two files:
 + **Hydra_fm_rx.grc** is the basic demonstration graph file
