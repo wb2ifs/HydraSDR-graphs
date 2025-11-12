@@ -1,2 +1,3 @@
 # HydraSDR-graphs
-My graphs using the HydraSDR RFOne radio
+My graph files using the HydraSDR RFOne radio are below. Hack them, enjoy them, share them.
+
